@@ -1,0 +1,36 @@
+body {
+    font-family: 'poppins', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+canvas {
+    border: 2px solid #030303;
+    background-color: #fff;
+    margin-top: 20px;
+}
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-right: 100px;
+}
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #8b58ea; 
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #b46ef0;
+}
+button:active {
+    background-color: #8b58ea;
+}
